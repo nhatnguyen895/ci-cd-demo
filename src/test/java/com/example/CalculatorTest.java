@@ -8,6 +8,6 @@ public class CalculatorTest {
     public void testAdd() {
         Calculator calc = new Calculator();
         // Kiểm tra 5 + 10 = 15
-        assertEquals(15, calc.add(5, 10));
+        assertEquals(99, calc.add(5, 10));
     }
 }
